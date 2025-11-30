@@ -25,10 +25,10 @@ Este repositorio contiene **ocho proyectos** distintos, cada uno enfocado en un 
    Implementación del método de Runge-Kutta de cuarto orden para resolver ecuaciones diferenciales ordinarias.
 
 7. **Cálculo de flujos y variaciones**  
-   Métodos numéricos para calcular flujos y variaciones en sistemas de ecuaciones diferenciales.
+   Métodos numéricos para calcular flujos y sistemas de ecuaciones variacionales para sistemas de ecuaciones diferenciales.
 
 8. **Cálculo de órbitas periódicas**  
-   Uso combinado de los métodos anteriores para obtener **órbitas periódicas** en sistemas dinámicos.
+   Uso combinado de los métodos anteriores para obtener calcular **órbitas periódicas** del tipo Halo, una orbita que sigue un sistema Hamiloniano en particular.
 
 ---
 
