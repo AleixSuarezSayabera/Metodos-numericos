@@ -1,0 +1,9 @@
+Compilació:
+
+gcc main.c funcions.c -o Pr1Ex4
+
+./Pr1Ex4 n
+
+On n és la dimensión de la matriu aleatoria que es vol generar.
+
+Cal main.c funcions.c funcions.h a la mateixa carpeta.
