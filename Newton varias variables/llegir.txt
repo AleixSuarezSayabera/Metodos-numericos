@@ -1,0 +1,7 @@
+Compilació:
+
+gcc main.c funcions.c TestFunction.c -o Pr2Ex3
+./Pr2Ex3
+
+Calen main.c funcions.c funcions.h TestFunction.c TestFunction.h g1.txt g2.txt g3.txt a la mateixa carpeta.
+Els .txt poden estar buits.
